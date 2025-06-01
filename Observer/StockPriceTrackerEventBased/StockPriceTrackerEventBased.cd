@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="StockPriceTrackerEventBased.Observer.AlertSystem">
+    <Position X="5.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAEAAAAAAAAAAAACAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Observer\AlertSystem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StockPriceTrackerEventBased.Observer.PriceDisplay">
+    <Position X="3.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAEAAAAAAAAAAAACAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Observer\PriceDisplay.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StockPriceTrackerEventBased.SubjectObservable.StockTicker">
+    <Position X="8" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAAAEBAAAAAAAAAAAAAAAAgAAAAAAAAAA=</HashCode>
+      <FileName>SubjectObservable\StockTicker.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StockPriceTrackerEventBased.StockPriceChangedEventArgs">
+    <Position X="9.75" Y="3" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAA=</HashCode>
+      <FileName>StockPriceChangedEventArgs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
