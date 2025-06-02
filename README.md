@@ -1,6 +1,10 @@
 # CSharpPatternsMaman
 A series of examples describing various patterns using C# and dotnet
 
+## Event Handler 
+### Timer
+- A simple Timer app to raise an alarm after x milliseconds using `.NET Event pattern` in C#
+
 ## Observer
 
 ### StockPriceTracker 
