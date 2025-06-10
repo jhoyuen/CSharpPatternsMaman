@@ -3,10 +3,13 @@ A series of examples describing various patterns using C# and dotnet
 
 ## Event Handler 
 ### Timer
-- A simple Timer app to raise an alarm after x milliseconds using `.NET Event pattern` in C#
+- A simple Timer app to raise an alarm after x milliseconds using `.NET Event Pattern` in C#
+
+## Factory
+### ZooSim
+- A simple Zoo Simulator app that knows to voice the right animal using `Simple Factory Pattern` in C#
 
 ## Observer
-
 ### StockPriceTracker 
 - A simple Stock Price Tracking console application using `Observer Pattern` in C#
 
