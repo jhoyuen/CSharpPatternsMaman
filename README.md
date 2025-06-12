@@ -2,6 +2,9 @@
 A series of examples describing various patterns using C# and dotnet
 
 ## Event Handler 
+### MultiplayerVersus
+- A Multiplayer VS app to pit 4 players against each other in a free-for-all using `.NET Event Pattern` in C#
+
 ### Timer
 - A simple Timer app to raise an alarm after x milliseconds using `.NET Event Pattern` in C#
 
