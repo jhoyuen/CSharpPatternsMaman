@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.13.35818.85 d17.13
+VisualStudioVersion = 17.13.35818.85
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Timer", "Timer\Timer.csproj", "{B018FF94-867A-4339-A0C4-690B173D45B0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiplayerVersus", "MultiplayerVersus\MultiplayerVersus.csproj", "{E037F4B8-8C58-463D-9835-F99F3E589C2E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{B018FF94-867A-4339-A0C4-690B173D45B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B018FF94-867A-4339-A0C4-690B173D45B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B018FF94-867A-4339-A0C4-690B173D45B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E037F4B8-8C58-463D-9835-F99F3E589C2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E037F4B8-8C58-463D-9835-F99F3E589C2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E037F4B8-8C58-463D-9835-F99F3E589C2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E037F4B8-8C58-463D-9835-F99F3E589C2E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
