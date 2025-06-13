@@ -18,3 +18,9 @@ A series of examples describing various patterns using C# and dotnet
 
 ### StockPriceTrackerEventBased
 - A simple Stock Price Tracking console application using `Event-Based Observer Pattern` in C#
+
+## Proxy
+Control access to the real object
+
+### FileUploaderProxy
+- A simple File Uploader console application that enables user to specify a file path and upload a file <= 5MB using `Proxy Pattern` in C#
