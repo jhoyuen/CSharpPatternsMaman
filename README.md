@@ -5,6 +5,10 @@ A series of examples describing various patterns using C# and dotnet
 ### BatchOrderProcessing
 - A simple example of batch processing orders. This is not necessarily a design pattern but it is a common technique employed to structure and manage batch processing logic effectively
 
+## Command
+### RemoteControlLight
+- A simple Turn Lights ON/OFF Remote Control console application using `Command Pattern` in C#
+
 ## Event Handler 
 ### MultiplayerVersus
 - A Multiplayer VS app to pit 4 players against each other in a free-for-all using `.NET Event Pattern` in C#
