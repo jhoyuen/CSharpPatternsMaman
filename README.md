@@ -20,6 +20,11 @@ A series of examples describing various patterns using C# and dotnet
 ### ZooSim
 - A simple Zoo Simulator app that knows to voice the right animal using `Simple Factory Pattern` in C#
 
+## Flyweight
+Flyweight is a `structural pattern` used to `reduce memory usage` by `sharing common parts` of objects instead of duplicating them. It's especially useful when you have lots of similar objects.
+### RobotAssembler
+- A simple Robot Parts Assembly app to show the conservation of memory by reusing robot part types using `Flyweight Pattern` in C#
+
 ## Observer
 ### StockPriceTracker 
 - A simple Stock Price Tracking console application using `Observer Pattern` in C#
