@@ -38,6 +38,7 @@ classDiagram
     RobotPart "1" *-- "1" RobotPartType : uses >
     Robot "1" *-- "*" RobotPart : has >
     Robot "1" o-- "1" RobotPartFactory : uses >
+```
 
 ```mermaid
     sequenceDiagram
@@ -85,3 +86,4 @@ classDiagram
         RobotPart->>RobotPartType: Display("Slot X")
 
         Program->>RobotPartFactory: PrintCachedTypes()
+```        
