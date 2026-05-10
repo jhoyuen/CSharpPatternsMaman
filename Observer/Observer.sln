@@ -1,13 +1,15 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 18
-VisualStudioVersion = 18.5.11723.231 stable
+VisualStudioVersion = 18.5.11723.231
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StockPriceTracker", "StockPriceTracker\StockPriceTracker.csproj", "{376E6AAB-EC42-4527-8B98-B33D1F92D45F}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StockPriceTrackerEventBased", "StockPriceTrackerEventBased\StockPriceTrackerEventBased.csproj", "{7525C480-270D-46DC-9542-EA05A1C2C962}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASimpleObserver", "ASimpleObserver\ASimpleObserver.csproj", "{DE7A13B6-98A0-4F2C-8310-2909C9951341}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleInventoryManager", "SimpleInventoryManager\SimpleInventoryManager.csproj", "{D5E0AD8A-D29E-4AC1-9461-B3EF840ADFC5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{DE7A13B6-98A0-4F2C-8310-2909C9951341}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DE7A13B6-98A0-4F2C-8310-2909C9951341}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DE7A13B6-98A0-4F2C-8310-2909C9951341}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5E0AD8A-D29E-4AC1-9461-B3EF840ADFC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5E0AD8A-D29E-4AC1-9461-B3EF840ADFC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5E0AD8A-D29E-4AC1-9461-B3EF840ADFC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5E0AD8A-D29E-4AC1-9461-B3EF840ADFC5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
