@@ -26,6 +26,12 @@ Flyweight is a `structural pattern` used to `reduce memory usage` by `sharing co
 - A simple Robot Parts Assembly app to show the conservation of memory by reusing robot part types using `Flyweight Pattern` in C#
 
 ## Observer
+### ASimpleObserver
+- A most basic example of the `Observer Pattern` in C# and .NET 8.0
+
+### SimpleInventoryManager
+- A simple Inventory Manager console application using the `Observer Pattern` in C# and .NET 8.0
+
 ### StockPriceTracker 
 - A simple Stock Price Tracking console application using `Observer Pattern` in C#
 
